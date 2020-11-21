@@ -1,0 +1,5 @@
+req.txt
+*.csv
+*.sql
+*.zip
+*.tar
